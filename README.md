@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This is a test to unnderstand how githun works, level higher with branches :).
 
 ![screenshot](./app_screenshot.png)
 
